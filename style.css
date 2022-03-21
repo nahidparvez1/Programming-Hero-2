@@ -1,0 +1,28 @@
+.curriculum {
+	margin: 25px;
+}
+
+.contact-details {
+	height: 500px;
+	background-color: skyblue;
+}
+
+.contact-form {
+	height: 500px;
+	background-color: darkblue;
+}
+
+.contact-section h1 {
+	text-align: center;
+}
+
+.contact-address {
+	height: 245px;
+	margin: 2px;
+	background-color: grey;
+}
+
+.image-gallery img {
+	height: 500px;
+	width: 500px;
+}
